@@ -1,0 +1,18 @@
+E:\Important File\Programs\C#\BITM\Web\Project-ii\Business-Plex\BusinessPlex\BusinessPlex.Models\bin\Debug\BusinessPlex.Models.dll
+E:\Important File\Programs\C#\BITM\Web\Project-ii\Business-Plex\BusinessPlex\BusinessPlex.Models\bin\Debug\BusinessPlex.Models.pdb
+E:\Important File\Programs\C#\BITM\Web\Project-ii\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.csproj.CoreCompileInputs.cache
+E:\Important File\Programs\C#\BITM\Web\Project-ii\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.dll
+E:\Important File\Programs\C#\BITM\Web\Project-ii\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.pdb
+E:\Important File\Programs\C#\BITM\Web\Project-ii\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.csprojAssemblyReference.cache
+E:\BITM\Raihan Help\Business-Plex\BusinessPlex\BusinessPlex.Models\bin\Debug\BusinessPlex.Models.dll
+E:\BITM\Raihan Help\Business-Plex\BusinessPlex\BusinessPlex.Models\bin\Debug\BusinessPlex.Models.pdb
+E:\BITM\Raihan Help\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.csprojAssemblyReference.cache
+E:\BITM\Raihan Help\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.csproj.CoreCompileInputs.cache
+E:\BITM\Raihan Help\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.dll
+E:\BITM\Raihan Help\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.pdb
+E:\BITM\Varsity Final Project\Business-Plex\BusinessPlex\BusinessPlex.Models\bin\Debug\BusinessPlex.Models.dll
+E:\BITM\Varsity Final Project\Business-Plex\BusinessPlex\BusinessPlex.Models\bin\Debug\BusinessPlex.Models.pdb
+E:\BITM\Varsity Final Project\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.csprojAssemblyReference.cache
+E:\BITM\Varsity Final Project\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.csproj.CoreCompileInputs.cache
+E:\BITM\Varsity Final Project\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.dll
+E:\BITM\Varsity Final Project\Business-Plex\BusinessPlex\BusinessPlex.Models\obj\Debug\BusinessPlex.Models.pdb
